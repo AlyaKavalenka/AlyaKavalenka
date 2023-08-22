@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img scr="./assets/redhead-girl-programmer-ghibli-855149554.png" width=100 alt="redhead-girl-programmer-ghibli-855149554" />
+</div>
 
 <!--
 **AlyaKavalenka/AlyaKavalenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
