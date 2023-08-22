@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img scr="./assets/redhead-girl-programmer-ghibli-855149554.png" width=100 alt="redhead-girl-programmer-ghibli-855149554" />
+  <img scr="./assets/redhead-girl-programmer-ghibli-855149554.png" width=100 />
 </div>
 
 <!--
