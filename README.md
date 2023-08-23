@@ -2,7 +2,7 @@
   <img alt="redhead girl" width="260px" src="https://i.pinimg.com/750x/6b/12/f3/6b12f3ff586ca812d24a537fdb442b7d.jpg" />
   <div id="badges">
     <a href="https://www.linkedin.com/in/alina-kavalenka-aa8979180/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://cv-kavalenka-alya.netlify.app/">
       <img src="https://img.shields.io/badge/RESUME/cv-9f2b00?style=for-the-badge&logoColor=white" alt="Resume Badge"/>
@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=AlyaKavalenka&style=flat-square&color=964B00" alt="counter"/>
 </div>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/3e/fc/f1/3efcf1e9a5f2c3354714699b321221b4.gif" width="370px" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenY1cTg5ZGQ3ZHlkaW80ZGJwMDU4N3VqMGVtM3g5dzhoZTZ0YzlyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kb3mRygsftnbZSD3Wg/giphy.gif" alt="banner" />
 </div>
 
 ---
@@ -19,7 +19,7 @@
 ### 👩‍💻 About Me:
 I am a Front-end Developer.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alina-kavalenka-aa8979180/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alina-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alina-kavalenka-aa8979180/)  [![Mail Badge](https://img.shields.io/badge/-kovalenkoalinam@gmail.com-c71610?style=flat&logo=gmail&logoColor=white)](mailto:kovalenkoalinam@gmail.com)
 - ⚡ Fun fact: I decided to start my journey with front-end development after working in an insurance company for two years
 
 ---
